@@ -1,0 +1,30 @@
+{
+  "name": "algo-nft-arc003",
+  "version": "1.0.0",
+  "description": "First algorand NFT which implements arc003 standards",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sufiyan-Xfinite/NFT-arc003.git"
+  },
+  "keywords": [
+    "NFT",
+    "algorand",
+    "arc003"
+  ],
+  "author": "Sufiyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sufiyan-Xfinite/NFT-arc003/issues"
+  },
+  "homepage": "https://github.com/Sufiyan-Xfinite/NFT-arc003#readme",
+  "dependencies": {
+    "algosdk": "^1.23.2",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "fs": "0.0.1-security"
+  }
+}
